@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const HelloWorld = ({name}) => {
+export const HelloWorld = ({name}) => {
   return (
     <h1>
       Hello {name}
@@ -9,4 +9,3 @@ const HelloWorld = ({name}) => {
 }
 
 
-export default HelloWorld;

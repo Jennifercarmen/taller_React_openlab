@@ -6,3 +6,5 @@
 - crear index.html
 - agregar la siguiente línea en script de package.json
 -    "dev": "parcel . /src/index.html"
+- Debuger
+- $r          
